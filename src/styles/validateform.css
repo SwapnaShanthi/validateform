@@ -1,29 +1,35 @@
+
 .formdiv{
-  margin-left:250px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.inputdiv{
-
+    margin-left:220px;
     display: flex;
-    margin-bottom:20px;
-}
-.errorlabel{
-    margin-left:10px;
-    margin-top:10px;
-    color:red;
-    font-size: 10px;
-}
-.inputstyle{
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .inputdiv{
+  
+      display: flex;
+      margin-bottom:20px;
+  }
+  .errorlabel{
+      margin-left:10px;
+      margin-top:10px;
+      color:red;
+      font-size: 10px;
+  }
+  .inputstyle{
+  
+      height:30px;
+      width:200px;
+  }
+  .buttonstyle{
+  
+  
+      height:30px;
+      width:100px;
+  }
+  .h2{
 
-    height:30px;
-    width:200px;
-}
-.buttonstyle{
-
-
-    height:30px;
-    width:100px;
-}
+    color:gray;
+  }
+  
